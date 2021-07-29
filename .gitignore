@@ -37,3 +37,7 @@ rsconnect/
 
 # for input and output files
 data/
+
+# mac folder file
+.DS_Store
+**.DS_Store
